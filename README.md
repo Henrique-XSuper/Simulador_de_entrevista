@@ -1,7 +1,8 @@
-🧠 Entrevista Automatizada com Currículo
+Entrevista Automatizada com Currículo
+---
 🗂️ Descrição do Projeto
 Este projeto é uma aplicação interativa em Python, desenvolvida para simular uma entrevista com base nas informações extraídas de um currículo enviado pelo usuário. Ele suporta arquivos .txt, .pdf e .docx, e utiliza bibliotecas como ipywidgets, PyMuPDF e python-docx para criar uma interface amigável no Jupyter Notebook.
-
+---
 🚀 Funcionalidades
 Upload de currículo em diferentes formatos.
 Extração automática de texto do currículo.
